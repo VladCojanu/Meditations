@@ -1,0 +1,61 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Vlad Cojanu",
+    "longName": "Meditations",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bt_off",
+                "name": "BT_OFF",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/bt_on",
+                "name": "BT_ON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/FONT_PERFECT_DOS_32",
+                "name": "FONT_PERFECT_DOS_32",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/FONT_PERFECT_DOS_24",
+                "name": "FONT_PERFECT_DOS_24",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/CASEY",
+                "memoryFormat": "SmallestPalette",
+                "menuIcon": true,
+                "name": "CASEY",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_BACKGROUND",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Meditations",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "1ca3efc6-ad1f-4b98-ae65-ee8807a5eb80",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
