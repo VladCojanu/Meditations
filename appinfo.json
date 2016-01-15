@@ -9,6 +9,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/screenshot.png",
+                "name": "screenshot",
+                "targetPlatforms": null,
+                "type": "png"
+            },
+            {
                 "file": "images/bt_off",
                 "name": "BT_OFF",
                 "targetPlatforms": null,
